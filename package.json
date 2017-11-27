@@ -1,0 +1,23 @@
+{
+  "name": "vpp",
+  "version": "1.0.0",
+  "description": "Cornell Tech CM 18 - Vacation Planner Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airline-codes": "^1.0.2",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "expresss": "0.0.0",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.13.2",
+    "morgan": "^1.9.0",
+    "qpx-api": "^0.1.0",
+    "request": "^2.83.0"
+  }
+}
